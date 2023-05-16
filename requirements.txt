@@ -3,3 +3,4 @@ streamlit==1.16.0
 pycaret==2.3.10
 catboost==1.1.1
 altair<5
+numpy<1.24
